@@ -78,7 +78,7 @@
                 <connectTime>true</connectTime>
               </value>
             </objProp>
-            <stringProp name="filename">results.xml</stringProp>
+            <stringProp name="filename">C:\siemens-devops\results.xml</stringProp>
           </ResultCollector>
           <hashTree/>
         </hashTree>
